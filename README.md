@@ -1,4 +1,4 @@
-#Numerology Report Generator
+Numerology Report Generator
 
 - calculates your master number
 - looks up data in reference dict
@@ -14,7 +14,7 @@ The Chances of being a 22: 3.4%
 22/4 is a Master Number!!!!
 
 --------------------------------------------------
-Life Path Number22/4 
+Life Path Number 22/4 
 
 An individual that has life path number 22/4 is the master teacher. Therefore, t
 hey have passion and energy to engage in scholarship and share knowledge with 
